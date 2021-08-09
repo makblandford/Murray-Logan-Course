@@ -9,3 +9,8 @@ summary(x)
 
 median(x)
 ##new branch has mean, master has median
+
+##bring the two files together now, the branch and the main file.
+
+#which is the branch you want to bring things to?
+#you must do this on the master branch
